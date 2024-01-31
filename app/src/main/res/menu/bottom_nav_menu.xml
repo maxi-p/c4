@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/connect_four"
+        android:icon="@drawable/home_icon"
+        android:title="Connect Four" />
+
+    <item
+        android:id="@+id/options"
+        android:icon="@drawable/options_icon"
+        android:title="Options" />
+
+</menu>
